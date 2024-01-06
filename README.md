@@ -1,3 +1,6 @@
+# Project Overview:
+It is Emergency Aid Management System which can be used to track inventory, orders and for supplies handling. This is final version of project (from 5 milestones). Project details can be found on (Fardad Soleimanloo) professor's github.
+
 # Acknowledgments:
 I extend sincere thanks to my Professor, and Seneca Polytechnic for their invaluable guidance, support, and resources in shaping this project.
 
