@@ -1,8 +1,28 @@
-# Project Overview:
-It is Emergency Aid Management System which can be used to track inventory, orders and for supplies handling. This is final version of project (from 5 milestones). Project details can be found on (Fardad Soleimanloo) professor's github.
+# Emergency Aid Management System
 
-# Acknowledgments:
-I extend sincere thanks to my Professor, and Seneca Polytechnic for their invaluable guidance, support, and resources in shaping this project.
+Welcome to the **Emergency Aid Management System** repository! This project, developed as a final project for the second semester, provides a comprehensive solution for tracking inventory, managing orders, and handling supplies for emergency aid situations.
 
-# Declaration:
-This repository is intended solely for reference purposes and is not to be copied, or misused in any form. The code and materials within this repository are the intellectual property of the author and are provided as a reference for learning and understanding. Any unauthorized use, reproduction, or distribution of this content is strictly prohibited and intend to do so can attract acedemic integrity.
+## Table of Contents
+1. [Project Overview](#project-overview)
+2. [Features](#features)
+3. [Academic Integrity Warning](#academic-integrity-warning)
+
+## Project Overview
+
+The **Emergency Aid Management System** is designed to streamline the management of emergency aid supplies. This C++ project helps organizations efficiently track inventory levels, manage orders, and handle supplies, ensuring that aid resources are available when needed.
+
+
+## Features
+
+- **Inventory Tracking**: Monitor and update the inventory of emergency aid supplies.
+- **Order Management**: Process and manage orders for emergency supplies.
+- **Supplies Handling**: Handle and update information related to emergency supplies.
+
+## Academic Integrity Warning
+This repository is intended solely for reference purposes and is not to be copied, or misused in any form. The code and materials within this repository are the intellectual property of the author and are provided as a reference for learning and understanding.
+
+### Important Notice
+Any unauthorized use, reproduction, or distribution of this content is strictly prohibited. Engaging in such actions may violate academic integrity policies, and intended misuse can result in academic consequences.
+
+## Acknowledgement
+I extend sincere thanks to my Professor Yosef Ashibani at Seneca Polytechnic for his invaluable guidance, support, and resources in shaping this project.
